@@ -236,3 +236,5 @@ if (message.content.startsWith(adminprefix + 'av')) {
     message.channel.send(`**جاري تغيير الأفتار... :** `);
 }
 })
+
+ client.login('NTI0MjEwNDEwMTYxNzAwODc0.Dv-TEQ.16e7zRV2kgGp75OCn3htY9qn0nA');
