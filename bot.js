@@ -266,7 +266,7 @@ msg.delete();
   client.on('message', message => {
     if (message.author.bot) return;
      if (message.content === prefix + "help") {
-         message.channel.send('**لقد تم رسال الهيلب في خاص:ok_hand: **');
+         message.channel.send('**Done | تــــم , :envelope:| شيك في الخاص**');
            
    
          
@@ -289,8 +289,8 @@ msg.delete();
  **❖ -obc => ارسال برودكاست ولاين فقط**
  **❖ -bc => ارسال برودكاست اولاين و اوفلاين**
  **❖ -giveaway => لعمل قيف اواي ** 
+ `);
  
-`)
     }
 });  
 
